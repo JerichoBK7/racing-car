@@ -1,0 +1,21 @@
+
+(C) Miguel Ángel Díaz López - 2010
+
+
+#    1º.- Instalar QT - SDK
+#################################################
+http://qt.nokia.com/downloads
+
+
+#    2º.- Instalar paquetes C .. C++ ..
+#################################################
+sudo apt-get installa build-essential
+
+
+#    3º.- Instalar dependencias Opengl + GLut
+#################################################
+sudo apt-get install freeglut3 freeglut3-dbg freeglut3-dev
+
+
+
+* Correo de contacto : admin@etsiit.es
