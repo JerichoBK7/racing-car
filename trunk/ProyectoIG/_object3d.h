@@ -7,14 +7,11 @@
 // 3.-Dibujado con texturas
 // 4.-Dibujado de materiales
 //
-// Author: Miguel Ángel Díaz López
+//         Copyright (C) Miguel Ángel Díaz López [2010]
 //
-// GPL3
-//
-//  (c) Marzo 2010
-//**************************************************************************
+//     License: GPL3
+//***************************************************************************
 /**
- *
  * @file _object3d.h
  * Implementation of object in 3D
  * @author Miguel Ángel Díaz López

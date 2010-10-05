@@ -2,7 +2,7 @@
 /*                             B A T T E R Y                             */
 /*                                                                       */
 /*                                                                       */
-/*     (c)   Miguel Ángel Díaz López [2010]                              */
+/*         Copyright (C) Miguel Ángel Díaz López [2010]                  */
 /*                                                                       */
 /*     License: GPL3                                                     */
 /*************************************************************************/

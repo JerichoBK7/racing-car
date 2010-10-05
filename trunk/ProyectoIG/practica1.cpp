@@ -1,10 +1,15 @@
 /*************************************************************************/
+/*                                                                       */
 /*                       R A C I N G      C A R                          */
 /*                                                                       */
+/*************************************************************************/
 /*                                                                       */
-/*     (c)   Miguel Ángel Díaz López [2010]                              */
+/*                                                                       */
+/*         Copyright (C) Miguel Ángel Díaz López [2010]                  */
+/*                                                                       */
 /*                                                                       */
 /*     License: GPL3                                                     */
+/*                                                                       */
 /*************************************************************************/
 /**
  *
@@ -26,7 +31,6 @@
  *
  *   You should have received a copy of the GNU General Public License
  *   along with this program.  If not, see <http://www.gnu.org/licenses/>.
- *
  *
  *
  * @footnote e-mail: admin at etsiit.es

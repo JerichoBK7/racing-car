@@ -2,11 +2,9 @@
 //
 // Utilizando las primitivas de _object3D ( EJE del coche)
 //
-// Author: Miguel Ángel Díaz López
+//         Copyright (C) Miguel Ángel Díaz López [2010]
 //
-// GPL3
-//
-//  (c) Marzo 2010
+//     License: GPL3
 //**************************************************************************
 /**
  *

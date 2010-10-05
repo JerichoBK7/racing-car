@@ -2,7 +2,7 @@
 /*                          B A S I C - O B J E C T S                    */
 /*                                                                       */
 /*                                                                       */
-/*     (c)   Miguel Ángel Díaz López [2010]                              */
+/*         Copyright (C) Miguel Ángel Díaz López [2010]                  */
 /*                                                                       */
 /*     License: GPL3                                                     */
 /*************************************************************************/

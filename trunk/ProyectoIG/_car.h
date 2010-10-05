@@ -1,11 +1,10 @@
 //**************************************************************************
 // Utilizando las primitivas de _object3D - C A R
 //
-// Author: Miguel Ángel Díaz López
+//        Copyright (C) Miguel Ángel Díaz López [2010]
 //
-//  GPL3
+//     License: GPL3
 //
-//  (c) Marzo 2010
 //**************************************************************************
 /**
  * @file _car.h

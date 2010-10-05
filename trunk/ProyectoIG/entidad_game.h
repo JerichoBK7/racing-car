@@ -2,7 +2,7 @@
 /*                        P A R T I C L E S                              */
 /*                                                                       */
 /*                                                                       */
-/*     (c)   Miguel Ángel Díaz López [2010]                              */
+/*         Copyright (C) Miguel Ángel Díaz López [2010]                  */
 /*                                                                       */
 /*     License: GPL3                                                     */
 /*************************************************************************/
