@@ -1,0 +1,36 @@
+
+(C) Miguel Ángel Díaz López - 2010
+
+
+
+#    1º.- Instalar paquetes C .. C++ ..
+#################################################
+sudo apt-get install build-essential
+
+
+#    2º.- Instalar QT - SDK
+#################################################
+http://qt.nokia.com/downloads
+
+
+#    3º.- Instalar dependencias Opengl + GLut
+#################################################
+sudo apt-get install freeglut3 freeglut3-dbg 
+sudo aptitude install freeglut3-dev
+
+
+#    4º.- Compilado
+#################################################
+
+1º.-Abrimos el QT y seleccionamos el archivo "*.pro" (único archivo que termna con dicha extensión)
+	File/Open File or Project.../"nuestro archivo"
+
+2º.-Pinchamos en la "flechita" verde
+
+3º.-Ya tenemos el juego compilado y listo para probar...dependiendo donde compilemos posiblemente 
+(si lo hace en otra carpeta *-build-*) tenemos que  copiar las carpetas del proyecto dentro de dicha
+carpeta (donde se ha compilado el proyecto).
+
+
+
+* Correo de contacto : admin@etsiit.es
